@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VISHALPANDITvp
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning CSE DATA SCIENCE from NIET
